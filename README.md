@@ -19,37 +19,21 @@ This repository contains a comprehensive collection of my professional certifica
 ## 📚 Certifications
 
 ### Cloud & DevOps
-- *Add certifications here*
 
 ### Programming & Software Development
-- *Add certifications here*
 
 ### Data Science & Analytics
-- *Add certifications here*
 
 ### Web Development
-- *Add certifications here*
-- *Add certifications here*
-
-### Other Certifications
-- *Add certifications here*
 
 ## 🏆 Academic Credentials
 
-- *Add degrees and academic achievements*
 
-## 🛠️ Skills Validated
-
-- *Add relevant skills*
-
-## 📅 Timeline
-
-*Update with your certification journey*
 
 ## 📞 Contact
 
 - **GitHub**: [@nishnarudkar](https://github.com/nishnarudkar)
-- **Email**: [Add your email]
+- **Email**: [nishnarudkar@gmail.com]
 - **LinkedIn**: [Add your LinkedIn URL]
 
 ---
